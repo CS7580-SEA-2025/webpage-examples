@@ -1,4 +1,4 @@
-# Week 6🚡
+# Week 6
 
 # Completed tasks
 
