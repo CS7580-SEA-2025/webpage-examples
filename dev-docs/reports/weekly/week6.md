@@ -40,4 +40,3 @@
 
 - Merge conflict issues because some of us worked simultaneously on the same file (minor)
 - Took longer than expected to agree on new DB schema for logs. We think the reason was that we did not vote early during the week and we kept discussing options. We should put a deadline for ourselves and then commit to the solution voted by the team. 
-- 
