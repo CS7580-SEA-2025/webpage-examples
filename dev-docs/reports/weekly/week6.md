@@ -3,8 +3,6 @@
 # Completed tasks
 
 
-Link to issue #2
-
 | Task                                                                                                                                    | Weight | Assigned|
 |-----------------------------------------------------------------------------------------------------------------------------------------|--------|---------|
 | [[DB] Design table(s) for storing information about the execution of a job](https://github.com/CS7580-SEA-2025/webpage-examples/issues/2) | M      | mj23    |
