@@ -1,10 +1,10 @@
-# Week 6
+# Week 6🚡
 
 # Completed tasks
 
 | Task                                                                                                                                    | Weight | Assigned|
 |-----------------------------------------------------------------------------------------------------------------------------------------|--------|---------|
-| [[DB] Design table(s) for storing information about the execution of a job](https://github.com/CS7580-SEA-2025/webpage-examples/issues) | M      | mj23    |
+| [[DB] Design table(s) for storing information about the execution of a job](https://github.com/CS7580-SEA-2025/webpage-examples/issues/2) | M      | mj23    |
 | [[ConfigService] Add line and col in error message](https://github.com/)                                                                | M      | cb23    |
 | [[Config File] Decide how to get the config file in the backend](https://github.com/)                                                   | S      | cb23    |
 | [[DockerService] Add Docker registry](https://github.com/)                                                                              | S      | mj23    |
@@ -13,7 +13,7 @@
 
 | Task                                                                                                                                    | Status          | Weight | Assignee |
 |-----------------------------------------------------------------------------------------------------------------------------------------|-----------------|--------|----------|
-| [[CLI] Refactor CLI options to capture new requirements](https://github.com/)                                                           | In Review       | S      | mj23     |
+| [[CLI] Refactor CLI options to capture new requirements](https://github.com/](https://github.com/CS7580-SEA-2025/webpage-examples/issues/1)                                                           | In Review       | S      | mj23     |
 | [[DockerService] Use jobs in jobOrder to create Docker containers](https://github.com/)                                                 | In Progress     | S      | cb23     |
 
 # New tasks
