@@ -17,18 +17,7 @@
 | [[CLI] Refactor CLI options to capture new requirements](https://github.com/](https://github.com/CS7580-SEA-2025/webpage-examples/issues/1)                                                           | In Review       | S      | mj23     |
 | [[DockerService] Use jobs in jobOrder to create Docker containers](https://github.com/)                                                 | In Progress     | S      | cb23     |
 
-# New tasks
 
-| Task                                                                                                                                           | Weight | Assignee |
-|------------------------------------------------------------------------------------------------------------------------------------------------|--------|----------|
-| [[CLI] Allow overriding the default ~/.cicd_config.json location for CLI Config File](https://github.com/)                                     | S      | mj23     |
-| [[DB] Finalize Database Design and what we want to store](https://github.com/)                                                                 | M      | cb23     |
-| [Create a Public Image to Test CI/CD Pipeline Run](https://github.com/)                                                                        | S      | mj23     |
-| [Run Real Custom Scripts in Running Docker Containers and Verify the Results](https://github.com/)                                             | S      | cb23     |
-| [Collect the Logs from the Docker Container and Upload Information to a Database Table](https://github.com/)                                   | M      | mj23     |
-| [Decide on a Database Schema to Store Logs](https://github.com/)                                                                               | M      | mj23     |
-| [[KubernetesService] Migrate Current Implementation to Create Multiple Containers on Kubernetes](https://github.com/)                          | M      | cb23     |
-| [[DockerService] Assign an Unused Port Number on Docker Creation](https://github.com/)                                                         | S      | cb23     |
 
 # What worked this week?
 
